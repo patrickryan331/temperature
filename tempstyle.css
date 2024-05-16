@@ -1,0 +1,44 @@
+
+
+.temp-button{
+    border-radius: 25px;
+    background-color: #2fc67b;
+    color: white;
+    width: 260px;
+    height: 55px;
+    border: none;
+    cursor: pointer;
+    font-size: 17px;
+    margin-bottom: 25px;
+}
+
+h1{
+    padding: 10px;
+}
+
+.top-section{
+    height: 10rem;
+    color: black;
+    text-align: center;
+
+}
+
+
+img{
+    max-width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.temp-list{
+    background-color: red;
+}
+
+
+#tempList{
+    background-color: rgb(230, 230, 230);
+    width: 415px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}

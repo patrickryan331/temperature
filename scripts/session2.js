@@ -94,6 +94,10 @@ function getGPA(){
 
         // document.write("Name: " + name);
         // document.write("GPA: " +gpa);
+
         document.getElementById("studentList").innerHTML+=` <li> Name: ${name} - GPA: ${gpa} </li>`;
+
+        // about is a template string
+
 
 }
