@@ -13,8 +13,7 @@ function convertTemperature(){
     if (scale=="C"){
         document.getElementById("results").innerHTML=(temperature) + " Celcius converted to Fahrenheit is " + (temperature * 9/5) + 32;
     };
-
-
+    
     }
 
 
