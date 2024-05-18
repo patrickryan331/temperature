@@ -36,10 +36,11 @@ img{
 }
 
 
-#tempList{
+#results{
     background-color: rgb(230, 230, 230);
-    width: 415px;
+    width: 350px;
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
+    border: solid;
 }
