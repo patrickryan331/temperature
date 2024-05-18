@@ -1,0 +1,45 @@
+
+
+.temp-button{
+    border-radius: 25px;
+    background-color: #2fc67b;
+    color: white;
+    width: 260px;
+    height: 55px;
+    border: none;
+    cursor: pointer;
+    font-size: 17px;
+    margin-bottom: 25px;
+}
+
+.temp-button:active { 
+    transform: scale(0.98); 
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24); 
+} 
+
+h1{
+    padding: 10px;
+}
+
+.top-section{
+    height: 10rem;
+    color: black;
+    text-align: center;
+
+}
+
+
+img{
+    max-width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#tempList{
+    background-color: rgb(230, 230, 230);
+    width: 415px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
